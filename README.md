@@ -2,7 +2,7 @@
 
 Este proyecto realiza un análisis comparativo de rendimiento entre diferentes algoritmos de ordenamiento (Bubble, Selection, Insertion, Quick y Shell Sort). El programa permite al usuario definir la carga de trabajo y el rango de datos para observar cómo varía la eficiencia en nanosegundos.
 
-## 🚀 Cómo correr el programa
+##  Cómo correr el programa
 
 1. **Prerrequisitos:** Asegúrate de tener instalado Python 3.x.
 2. **Clonar/Descargar:** Descarga el archivo `main.py` en tu computadora.
